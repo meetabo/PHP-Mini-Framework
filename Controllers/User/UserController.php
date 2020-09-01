@@ -2,11 +2,11 @@
 
 namespace Controllers\User;
 
-use Vendor\Db\Where;
-use Vendor\Router\Router;
+use Core\Db\Where;
+use Core\Router\Router;
 use Models\User;
-use Vendor\Db\Db;
-use Vendor\Db\Fields\VarcharField;
+use Core\Db\Db;
+use Core\Db\Fields\VarcharField;
 
 class UserController {
     public function test() {

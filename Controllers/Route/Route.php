@@ -2,7 +2,7 @@
 
 namespace Route;
 
-use Vendor\Router\Router;
+use Core\Router\Router;
 
 class Route {
     public function __construct() {
