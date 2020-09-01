@@ -2,11 +2,11 @@
 
 namespace Models;
 
-use Vendor\Db\Fields\FloatField;
-use Vendor\Db\Fields\IntField;
-use Vendor\Db\Fields\VarcharField;
-use Vendor\Db\Fields\TextField;
-use Vendor\Db\Fields\DoubleField;
+use Core\Db\Fields\FloatField;
+use Core\Db\Fields\IntField;
+use Core\Db\Fields\VarcharField;
+use Core\Db\Fields\TextField;
+use Core\Db\Fields\DoubleField;
 
 class User {
     /**
